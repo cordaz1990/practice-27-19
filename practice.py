@@ -1,1 +1,1 @@
-int_and_str = ["whale
+int_and_str = ["whale"
